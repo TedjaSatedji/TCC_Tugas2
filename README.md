@@ -1,9 +1,9 @@
-# 📝 NoteSpace — Tugas 2 Teknologi Infrastruktur
+# 📝 NoteSpace — Tugas 2 TCC
 
 **Nama:** Anak Agung Ngurah Sadewa Tedja  
 **NIM:** 123230050  
 **Kelas:** IF-H  
-**Mata Kuliah:** Teknologi Infrastruktur
+**Mata Kuliah:** TCC
 
 ---
 
